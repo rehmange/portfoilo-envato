@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family= :200,200i,300,300i,400,400i,600,600i,700,700i,900,900i&display=swap");
+@import "{{ site.theme }}";
 /*
  * Theme Name: REHMAN GE Portfolio
  * Author: Abdul Rehman
